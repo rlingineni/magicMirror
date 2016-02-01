@@ -19,7 +19,7 @@ body
 .message
 {
     position: fixed;
-    bottom: 500px;
+    bottom: 10vh;
     text-align: center;
     width: 100%;
     font-family: 'Josefin Sans', serif;
