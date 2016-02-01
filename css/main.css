@@ -1,0 +1,51 @@
+body 
+{
+    background: #000000 ;
+    
+
+}
+
+
+.date
+{
+    padding-top: 40px;
+    padding-right: 30px;
+    color: white;
+    text-align: right;
+    font-family: 'Josefin Sans', serif;
+    font-size: 100px;
+}
+
+.message
+{
+    position: fixed;
+    bottom: 500px;
+    text-align: center;
+    width: 100%;
+    font-family: 'Josefin Sans', serif;
+}
+
+p
+{
+    color: white;
+    padding-right: 50px;
+    font-family: 'Josefin Sans', serif;
+    text-align: right;
+    font-size: 75px;
+}
+
+.left
+{
+  width: 50%;
+     margin: 0 auto; 
+    
+    
+}
+
+.right
+{
+    float: right;
+    
+}
+
+
